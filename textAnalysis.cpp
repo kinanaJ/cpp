@@ -1,7 +1,7 @@
 #include "iostream"
 #include "stdio.h"
-#define rows 2
-#define columns 10
+#define rows 10
+#define columns 80
 using namespace std;
 
 //Structures declarations
